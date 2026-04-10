@@ -1,6 +1,3 @@
-# void next_greater(int* arr, int n, int* result)
-# a0 = arr, a1 = n, a2 = result
-
 .text
 .globl next_greater
 next_greater:
